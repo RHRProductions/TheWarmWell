@@ -1,0 +1,94 @@
+{
+    "mission_objectives": [
+        {
+            "location": "Coffee Shops",
+            "missions": [
+                "Ask the barista for their drink recommendation and why they love it",
+                "Compliment someone's laptop sticker and ask about their work",
+                "Share a table with someone and ask about their day",
+                "Ask someone about the book they're reading",
+                "Chat with someone about their coffee preferences",
+                "Ask about someone's unique drink order",
+                "Discuss work-from-home experiences with another laptop user",
+                "Comment on someone's interesting gadget or tech setup",
+                "Share your favorite coffee drink and ask for opinions",
+                "Ask about someone's morning routine"
+            ]
+        },
+        {
+            "location": "Professional Networking",
+            "missions": [
+                "Ask a new contact what inspired them to choose their career path",
+                "Attend a networking event and inquire about someone's recent project",
+                "Visit a real estate office and ask about the challenges they face in the market",
+                "Join a professional workshop and ask someone about their key takeaway",
+                "Introduce yourself at a chamber meeting and ask what their biggest focus is this year",
+                "Connect with a mortgage broker and ask what trends they\u2019re noticing in lending",
+                "Attend a property management event and ask about unique rental issues they face",
+                "Visit a local bank and ask a manager about the community\u2019s financial needs",
+                "Join a small business owner meetup and ask someone about their business journey",
+                "Attend an industry conference and ask a vendor about the most exciting innovation"
+            ]
+        },
+        {
+            "location": "Digital Networking",
+            "missions": [
+                "Comment meaningfully on three LinkedIn posts about topics you care about",
+                "Send a thoughtful message to a new LinkedIn connection asking about their recent work",
+                "Join a local Facebook group and start a conversation about community initiatives",
+                "Create a poll on LinkedIn to spark discussions about challenges people face in your industry",
+                "Participate in a virtual networking event and ask a speaker about their perspective",
+                "Write a LinkedIn post sharing a lesson you learned recently and ask for input",
+                "Join a Reddit discussion thread and engage with a question related to your expertise",
+                "Connect with a local influencer and ask how they see the community evolving",
+                "Participate in an online business community forum and share your thoughts on a trending topic",
+                "Reach out to a podcast host in your industry and ask how they choose their themes"
+            ]
+        },
+        {
+            "location": "Local Businesses",
+            "missions": [
+                "Visit a new restaurant and ask the owner what inspired their menu",
+                "Chat with a food truck owner about their most popular dish",
+                "Stop by a retail shop and ask the owner about their best-selling product",
+                "Visit a car dealership and ask the manager what trends they\u2019re seeing in car sales",
+                "Connect with a local gym owner and ask about the most rewarding part of their work",
+                "Visit a tech startup and ask the founder about their biggest challenge this year",
+                "Chat with a property developer about upcoming community projects",
+                "Meet with a daycare owner and ask what makes their services unique",
+                "Visit a printing shop and ask how they support local businesses",
+                "Talk to an art gallery owner about their favorite piece on display"
+            ]
+        },
+        {
+            "location": "Community Events",
+            "missions": [
+                "Attend a local farmers market and ask a vendor about their journey",
+                "Join a community cleanup and ask a volunteer why the initiative matters to them",
+                "Participate in a local festival and ask an organizer about its history",
+                "Join a community garden and ask someone about their favorite plants",
+                "Attend a food festival and ask a chef about their signature dish",
+                "Participate in a neighborhood meeting and ask someone about their vision for the area",
+                "Join a wellness fair and ask a participant what they\u2019ve learned",
+                "Attend a cultural celebration and ask someone about its significance",
+                "Participate in a local charity event and ask an organizer about their mission",
+                "Join a community parade and ask a participant what they enjoy most about it"
+            ]
+        },
+        {
+            "location": "Professional Services",
+            "missions": [
+                "Meet with a local CPA and ask what small businesses should focus on most",
+                "Visit a law firm and ask about recent legal changes impacting the community",
+                "Connect with a business consultant and ask what trends they\u2019re advising on",
+                "Meet with a financial planner and ask their perspective on economic challenges",
+                "Visit a marketing agency and ask about their most innovative campaign",
+                "Connect with a web developer and ask what new tools excite them",
+                "Meet with a business coach and ask how they help entrepreneurs grow",
+                "Visit an HR consulting firm and ask about common hiring challenges",
+                "Connect with a property appraiser and ask about market trends",
+                "Meet with a commercial photographer and ask about their favorite projects"
+            ]
+        }
+    ]
+}

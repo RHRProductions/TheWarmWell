@@ -1,0 +1,60 @@
+{
+  "mission_objectives": [
+    {
+      "location": "Cold Calling Basics",
+      "missions": [
+        "Complete 10 calls using your standard script.",
+        "Focus on a strong, friendly introduction for your next 5 calls.",
+        "Ask at least 3 prospects an open-ended question about their goals.",
+        "End every call today by thanking the prospect, even if they decline.",
+        "Introduce yourself confidently without rushing for the next 10 calls.",
+        "Identify and note one objection during each of your next 5 calls.",
+        "Use a positive affirmation before each call to boost your confidence."
+      ]
+    },
+    {
+      "location": "Cold Calling Scripts",
+      "missions": [
+        "Test a new version of your introduction script for 5 calls.",
+        "Ask every prospect if they’ve ever considered life insurance.",
+        "Tailor your pitch to prospects over 50 for your next 5 calls.",
+        "Focus on listening and repeating back key phrases from prospects.",
+        "For the next 3 calls, transition into your pitch after asking about family needs.",
+        "Make 5 calls specifically to refine your objection handling."
+      ]
+    },
+    {
+      "location": "Skill Building",
+      "missions": [
+        "Experiment with a slower, more deliberate speaking pace for 10 calls.",
+        "Record and review 3 calls to evaluate tone and delivery.",
+        "Reframe every objection as an opportunity for your next 5 calls.",
+        "Set a goal to get at least one laugh from a prospect during the day.",
+        "Focus on clarity—no filler words like 'um' or 'uh' for 5 calls.",
+        "Keep each call under 3 minutes to maximize efficiency for 5 calls."
+      ]
+    },
+    {
+      "location": "Fun Challenges",
+      "missions": [
+        "Use the phrase 'That’s an excellent point!' during 3 calls.",
+        "Pretend you’re hosting a talk show while making 5 calls.",
+        "Include an interesting, unrelated fact in your next 3 calls.",
+        "Name-drop a popular movie in a conversation during 5 calls.",
+        "Challenge yourself to get at least one prospect to say, 'That makes sense.'",
+        "Call while standing up and pacing to boost energy for the next 5 calls."
+      ]
+    },
+    {
+      "location": "Goal-Oriented Calls",
+      "missions": [
+        "Set 3 appointments with prospects before lunch.",
+        "Focus on getting referrals from at least 2 prospects.",
+        "Identify at least one 'hot lead' from your next 10 calls.",
+        "End each call by asking for permission to follow up via email or text.",
+        "Make 20 dials in the next hour and track your results.",
+        "Ask 5 prospects if they’d like a free consultation or quote."
+      ]
+    }
+  ]
+}

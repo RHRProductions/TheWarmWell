@@ -1,0 +1,23 @@
+[
+    {
+        "task": "Referrals Set",
+        "target": 3,
+        "current": 3,
+        "reward": "Make a lasagna.",
+        "completed": true
+    },
+    {
+        "task": "Appointments Set",
+        "target": 8,
+        "current": 0,
+        "reward": "Eat a lasagna.",
+        "completed": false
+    },
+    {
+        "task": "Follow Ups Set",
+        "target": 3,
+        "current": 0,
+        "reward": "Lasagna Milkshake.",
+        "completed": false
+    }
+]

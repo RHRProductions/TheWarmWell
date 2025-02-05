@@ -1,0 +1,7 @@
+[
+    {"name": "Dial 100 general list", "target": 100},
+    {"name": "Have 1 new conversation", "target": 1},
+    {"name": "Book 5 appointments", "target": 5},
+    {"name": "Follow up with 10 leads", "target": 10},
+    {"name": "Send 50 emails", "target": 50}
+]

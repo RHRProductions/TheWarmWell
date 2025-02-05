@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Gemini Jones",
+        "date": "01.10.2025",
+        "notes": "Referred by Linda. ",
+        "status": "Appointment Set"
+    },
+    {
+        "name": "Robert Mckockn",
+        "date": "01.21.2025",
+        "notes": "Referred by Jan Mckockn",
+        "status": "Contacted"
+    }
+]

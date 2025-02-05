@@ -1,0 +1,20 @@
+{
+    "New Goal 1": {
+        "target": 10,
+        "current": 10,
+        "reward": "Reward yourself!",
+        "completed": true
+    },
+    "New Goal 2": {
+        "target": 10,
+        "current": 0,
+        "reward": "Reward yourself!",
+        "completed": false
+    },
+    "New Goal 3": {
+        "target": 10,
+        "current": 0,
+        "reward": "Reward yourself!",
+        "completed": false
+    }
+}

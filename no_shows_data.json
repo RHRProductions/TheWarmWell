@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Dick Buster",
+        "phone": "333-333-3333",
+        "city": "Aurora",
+        "notes": "No one home.",
+        "status": "No Show",
+        "priority": "Medium"
+    },
+    {
+        "name": "Jean Splitter",
+        "phone": "999-867-5309",
+        "city": "Denver",
+        "notes": "Cancelled due to another appointment she forgot about. ",
+        "status": "Cancelled",
+        "priority": "High"
+    }
+]
